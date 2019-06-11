@@ -1,0 +1,21 @@
+#search-panel {
+  margin: 1rem;
+}
+
+.form {
+  padding-top: 2rem !important;
+  background-color: #5f9ea0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-grow: 1;
+  padding: 0 1rem;
+}
+
+table {
+  width: 100%;
+}
+
+.width-90 {
+  width: 90%;
+}
